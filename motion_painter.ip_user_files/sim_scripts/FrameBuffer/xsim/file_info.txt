@@ -1,0 +1,2 @@
+FrameBuffer.v,verilog,xil_defaultlib,../../../../lab6.gen/sources_1/ip/FrameBuffer/sim/FrameBuffer.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

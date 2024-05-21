@@ -1,0 +1,7 @@
+verilog xil_defaultlib  \
+"../../../../lab6.gen/sources_1/ip/FrameBuffer/sim/FrameBuffer.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

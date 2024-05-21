@@ -1,0 +1,2 @@
+PaintBuffer.v,verilog,xil_defaultlib,../../../../lab6.gen/sources_1/ip/PaintBuffer/sim/PaintBuffer.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
